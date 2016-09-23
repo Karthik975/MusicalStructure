@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="Music_album">Album</string>
+    <string name="Music_artist">Artist</string>
+    <string name="Music_type">Genre</string>
+    <string name="Music_year">Year</string>
+    <string name="Now_Playing">Now Playing</string>
+</resources>
